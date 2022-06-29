@@ -13,6 +13,8 @@ namespace Practice
             int integerPartOfTenThousandPi = (int)tenThousandPi;
             Console.WriteLine(roundedTenThousandPi);
             Console.WriteLine(integerPartOfTenThousandPi);
+            Console.WriteLine(pi);
+
         }
     }
 }
